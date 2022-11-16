@@ -1,5 +1,3 @@
-//assignment_2_stack and queue
-
 //use custom-built linkedList to simulate stack
 import java.util.*;
 
@@ -182,7 +180,6 @@ class ListNode
 
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 //use custom-built linkedList to simulate "+ - * /"
-//reference:https://blog.csdn.net/chmfy006/article/details/107734940
 import java.util.*;
 
 class Main
